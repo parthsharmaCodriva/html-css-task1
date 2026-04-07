@@ -10,3 +10,6 @@ Create a page with all 6 heading levels showing a topic hierarchy (e.g., a book 
 
 Build a 'Personal Intro Page' with: your name, a paragraph about yourself, a profile image, and links to your social media.
 
+
+I have used various nesting with <br><b><i> and have used anchor tag along with <section> to make the layout.
+
